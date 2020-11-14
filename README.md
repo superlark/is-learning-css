@@ -1,2 +1,7 @@
-# is-learning-css
-A repository for practicing all the CSS that superlark is learning
+# Hello!
+
+This repository is for superlark to practice CSS.
+
+But first superlark must set up a GitHub Page for it.
+
+Superlark hopes that it works... Stay tuned.
